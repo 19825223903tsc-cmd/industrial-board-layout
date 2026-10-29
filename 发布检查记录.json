@@ -38,7 +38,41 @@
   },
   "model_generation_test": "Not performed for launch packaging; proofs are not model-generated boards.",
   "deployment": {
-    "status": "pending",
-    "repository": "https://github.com/19825223903tsc-cmd/industrial-board-layout"
+    "status": "verified",
+    "verified_date": "2026-10-29",
+    "repository": "https://github.com/19825223903tsc-cmd/industrial-board-layout",
+    "pages": "https://19825223903tsc-cmd.github.io/industrial-board-layout/",
+    "source_commit": "683b518cd0fd006f622d4b396c52e61f23a59c58",
+    "checks": {
+      "index.html": {
+        "status": 200,
+        "bytes": 8157
+      },
+      "assets/hasselblad.png": {
+        "status": 200,
+        "bytes": 1873436
+      },
+      "assets/op1-zh.png": {
+        "status": 200,
+        "bytes": 2190667
+      },
+      "assets/op1-en.png": {
+        "status": 200,
+        "bytes": 2209147
+      },
+      "assets/wireframe.png": {
+        "status": 200,
+        "bytes": 159183
+      },
+      "industrial-board-layout-zh-v14.zip": {
+        "status": 200,
+        "bytes": 65310
+      },
+      "industrial-board-layout-en-v14.zip": {
+        "status": 200,
+        "bytes": 63724
+      }
+    },
+    "download_verification": "Both live language ZIPs match reviewed local bytes and pass ZIP integrity checks."
   }
 }
