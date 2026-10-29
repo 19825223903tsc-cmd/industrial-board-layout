@@ -1,0 +1,106 @@
+{
+  "canvas": {
+    "width": 800,
+    "height": 600,
+    "unit": "px",
+    "language": "zh-CN"
+  },
+  "intent": "Schema illustration only; not a default composition. Title, prose and image caption are planned together.",
+  "delivery_mode": "composition-guide",
+  "content_inventory": [],
+  "typography": {
+    "title": {
+      "font_size": 36,
+      "line_height": 48
+    },
+    "body": {
+      "font_size": 18,
+      "line_height": 28
+    },
+    "caption": {
+      "font_size": 14,
+      "line_height": 22
+    }
+  },
+  "elements": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 48,
+      "y": 48,
+      "w": 704,
+      "h": 64,
+      "style": "title",
+      "text": "产品形态研究",
+      "language": "zh-CN"
+    },
+    {
+      "id": "separator",
+      "type": "rule",
+      "x": 48,
+      "y": 142,
+      "w": 704,
+      "h": 0
+    },
+    {
+      "id": "product",
+      "type": "image-box",
+      "x": 48,
+      "y": 180,
+      "w": 440,
+      "h": 280,
+      "role": "product image",
+      "source": "not supplied; schema example",
+      "fit": "contain",
+      "evidence_status": "unsupported-placeholder",
+      "evidence_note": "Schema example only. No actual product reference has been supplied; do not synthesize an unverified product for this slot."
+    },
+    {
+      "id": "body",
+      "type": "text",
+      "x": 520,
+      "y": 180,
+      "w": 232,
+      "h": 280,
+      "style": "body",
+      "text": "本例只演示中文线框数据。正式项目应使用真实产品图与文案，依据形态、素材和阅读条件重新构图。",
+      "associated_with": [
+        "product"
+      ],
+      "language": "zh-CN"
+    },
+    {
+      "id": "caption",
+      "type": "text",
+      "x": 48,
+      "y": 480,
+      "w": 440,
+      "h": 44,
+      "style": "caption",
+      "text": "示例图注：标明图片内容与归属。",
+      "associated_with": [
+        "product"
+      ],
+      "language": "zh-CN"
+    }
+  ],
+  "alignments": [
+    {
+      "axis": "left",
+      "ids": [
+        "title",
+        "product",
+        "caption"
+      ],
+      "tolerance": 0
+    },
+    {
+      "axis": "top",
+      "ids": [
+        "product",
+        "body"
+      ],
+      "tolerance": 0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+
+
+1/4 Better boards start before generation. This skill produces a wireframe, source framing notes and an image-model prompt. Layout follows the product and available evidence.
+https://github.com/19825223903tsc-cmd/industrial-board-layout
+
+---
+
+2/4 Chinese and English are separate skills. Chinese punctuation and mixed scripts need different rules from English word wrapping, long model names and caption line lengths. Each version reflows the actual copy.
+
+---
+
+3/4 Keep the product true. Fewer reference images mean fewer supported modules. Do not invent unseen parts, views or mechanisms to fill space. Five review passes precede handoff; three reviews follow generation.
+
+---
+
+4/4 Try it in Codex: upload product photos and call $industrial-board-layout-en. Specify the board size and emphasis. Start with a composition guide. Generated output still needs review; the examples here are source-photo proofs.
+https://github.com/19825223903tsc-cmd/industrial-board-layout

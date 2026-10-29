@@ -1,0 +1,106 @@
+{
+  "canvas": {
+    "width": 800,
+    "height": 600,
+    "unit": "px",
+    "language": "en"
+  },
+  "intent": "Schema illustration only; not a default composition. Title, prose and image caption are planned together.",
+  "delivery_mode": "composition-guide",
+  "content_inventory": [],
+  "typography": {
+    "title": {
+      "font_size": 36,
+      "line_height": 48
+    },
+    "body": {
+      "font_size": 18,
+      "line_height": 28
+    },
+    "caption": {
+      "font_size": 14,
+      "line_height": 22
+    }
+  },
+  "elements": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 48,
+      "y": 48,
+      "w": 704,
+      "h": 64,
+      "style": "title",
+      "text": "Product form study",
+      "language": "en"
+    },
+    {
+      "id": "separator",
+      "type": "rule",
+      "x": 48,
+      "y": 142,
+      "w": 704,
+      "h": 0
+    },
+    {
+      "id": "product",
+      "type": "image-box",
+      "x": 48,
+      "y": 180,
+      "w": 440,
+      "h": 280,
+      "role": "product image",
+      "source": "not supplied; schema example",
+      "fit": "contain",
+      "evidence_status": "unsupported-placeholder",
+      "evidence_note": "Schema example only. No actual product reference has been supplied; do not synthesize an unverified product for this slot."
+    },
+    {
+      "id": "body",
+      "type": "text",
+      "x": 520,
+      "y": 180,
+      "w": 232,
+      "h": 280,
+      "style": "body",
+      "text": "This example illustrates the layout schema. Use real references and English copy, then compose for the actual product.",
+      "associated_with": [
+        "product"
+      ],
+      "language": "en"
+    },
+    {
+      "id": "caption",
+      "type": "text",
+      "x": 48,
+      "y": 480,
+      "w": 440,
+      "h": 44,
+      "style": "caption",
+      "text": "Example caption: describe the supplied view.",
+      "associated_with": [
+        "product"
+      ],
+      "language": "en"
+    }
+  ],
+  "alignments": [
+    {
+      "axis": "left",
+      "ids": [
+        "title",
+        "product",
+        "caption"
+      ],
+      "tolerance": 0
+    },
+    {
+      "axis": "top",
+      "ids": [
+        "product",
+        "body"
+      ],
+      "tolerance": 0
+    }
+  ]
+}

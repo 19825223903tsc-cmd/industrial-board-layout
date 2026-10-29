@@ -1,0 +1,44 @@
+{
+  "version": 14,
+  "review_1": {
+    "scope": "content, product evidence labels, language selection, no invented performance claims",
+    "status": "passed",
+    "correction": "Clarified: choose one invocation by target language"
+  },
+  "review_2": {
+    "scope": "image dimensions, SVG parsing, text widths, visual gutters/baselines, file references, privacy scan",
+    "status": "passed",
+    "checks": [
+      {
+        "channel": "小红书账号",
+        "images": 6,
+        "size": [
+          1200,
+          1600
+        ],
+        "svg_valid": true,
+        "text_widths_checked": 71
+      },
+      {
+        "channel": "X推送",
+        "images": 4,
+        "size": [
+          1600,
+          1000
+        ],
+        "svg_valid": true,
+        "text_widths_checked": 36
+      }
+    ]
+  },
+  "review_3": {
+    "scope": "final image export inspection, channel order, invocation correctness and archive contents",
+    "status": "passed",
+    "evidence": "Viewed channel contact sheets, all four full X cards and final revised Chinese invocation card. Unchanged Chinese examples retained from reviewed v2."
+  },
+  "model_generation_test": "Not performed for launch packaging; proofs are not model-generated boards.",
+  "deployment": {
+    "status": "pending",
+    "repository": "https://github.com/19825223903tsc-cmd/industrial-board-layout"
+  }
+}

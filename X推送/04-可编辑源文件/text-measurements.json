@@ -1,0 +1,290 @@
+[
+  {
+    "text": "BOARD COMPOSITION / SKILL",
+    "x": 64,
+    "baseline": 64,
+    "size": 22,
+    "width": 324.0,
+    "max_width": 1464
+  },
+  {
+    "text": "01",
+    "x": 1455,
+    "baseline": 64,
+    "size": 22,
+    "width": 24.0,
+    "max_width": 81
+  },
+  {
+    "text": "Better boards",
+    "x": 64,
+    "baseline": 249,
+    "size": 88,
+    "width": 572.0,
+    "max_width": 825
+  },
+  {
+    "text": "start before",
+    "x": 64,
+    "baseline": 352,
+    "size": 88,
+    "width": 483.0,
+    "max_width": 825
+  },
+  {
+    "text": "generation.",
+    "x": 64,
+    "baseline": 455,
+    "size": 88,
+    "width": 474.0,
+    "max_width": 825
+  },
+  {
+    "text": "Plan the layout. Then prompt the image model.",
+    "x": 84,
+    "baseline": 553,
+    "size": 28,
+    "width": 627.0,
+    "max_width": 704
+  },
+  {
+    "text": "Product-aware composition",
+    "x": 64,
+    "baseline": 661,
+    "size": 34,
+    "width": 447.0,
+    "max_width": 1464
+  },
+  {
+    "text": "Thin gutters. Aligned captions. Clear hierarchy.",
+    "x": 64,
+    "baseline": 722,
+    "size": 28,
+    "width": 590.0,
+    "max_width": 825
+  },
+  {
+    "text": "Separate Chinese and English skills.",
+    "x": 64,
+    "baseline": 781,
+    "size": 28,
+    "width": 461.0,
+    "max_width": 825
+  },
+  {
+    "text": "OP\u20131 field / source-photo placement proof / photos: teenage engineering",
+    "x": 64,
+    "baseline": 971,
+    "size": 21,
+    "width": 697.0,
+    "max_width": 1464
+  },
+  {
+    "text": "BOARD COMPOSITION / SKILL",
+    "x": 64,
+    "baseline": 64,
+    "size": 22,
+    "width": 324.0,
+    "max_width": 1464
+  },
+  {
+    "text": "02",
+    "x": 1455,
+    "baseline": 64,
+    "size": 22,
+    "width": 24.0,
+    "max_width": 81
+  },
+  {
+    "text": "Wireframe first. Image model next.",
+    "x": 64,
+    "baseline": 193,
+    "size": 65,
+    "width": 1062.0,
+    "max_width": 1464
+  },
+  {
+    "text": "A composition guide with source-bound framing and a generation prompt.",
+    "x": 64,
+    "baseline": 246,
+    "size": 29,
+    "width": 938.0,
+    "max_width": 1464
+  },
+  {
+    "text": "COMPOSITION WIREFRAME",
+    "x": 192,
+    "baseline": 907,
+    "size": 22,
+    "width": 298.0,
+    "max_width": 550
+  },
+  {
+    "text": "SOURCE-PHOTO PROOF",
+    "x": 986,
+    "baseline": 907,
+    "size": 22,
+    "width": 264.0,
+    "max_width": 550
+  },
+  {
+    "text": "LAYOUT",
+    "x": 674,
+    "baseline": 550,
+    "size": 25,
+    "width": 102.0,
+    "max_width": 220
+  },
+  {
+    "text": "+ SOURCES",
+    "x": 674,
+    "baseline": 601,
+    "size": 25,
+    "width": 146.0,
+    "max_width": 250
+  },
+  {
+    "text": "These are planning artifacts. Generated boards still require visual review.",
+    "x": 64,
+    "baseline": 971,
+    "size": 21,
+    "width": 699.0,
+    "max_width": 1464
+  },
+  {
+    "text": "BOARD COMPOSITION / SKILL",
+    "x": 64,
+    "baseline": 64,
+    "size": 22,
+    "width": 324.0,
+    "max_width": 1464
+  },
+  {
+    "text": "03",
+    "x": 1455,
+    "baseline": 64,
+    "size": 22,
+    "width": 24.0,
+    "max_width": 81
+  },
+  {
+    "text": "One product. Two typography systems.",
+    "x": 64,
+    "baseline": 194,
+    "size": 64,
+    "width": 1206.0,
+    "max_width": 1464
+  },
+  {
+    "text": "Reflow the real copy. Recalculate captions, column widths and shared baselines.",
+    "x": 64,
+    "baseline": 248,
+    "size": 29,
+    "width": 1035.0,
+    "max_width": 1464
+  },
+  {
+    "text": "CHINESE",
+    "x": 180,
+    "baseline": 909,
+    "size": 22,
+    "width": 99.0,
+    "max_width": 420
+  },
+  {
+    "text": "ENGLISH",
+    "x": 995,
+    "baseline": 909,
+    "size": 22,
+    "width": 98.0,
+    "max_width": 420
+  },
+  {
+    "text": "OP\u20131 field / source-photo placement proofs / photos: teenage engineering",
+    "x": 64,
+    "baseline": 971,
+    "size": 21,
+    "width": 708.0,
+    "max_width": 1464
+  },
+  {
+    "text": "BOARD COMPOSITION / SKILL",
+    "x": 64,
+    "baseline": 64,
+    "size": 22,
+    "width": 324.0,
+    "max_width": 1464
+  },
+  {
+    "text": "04",
+    "x": 1455,
+    "baseline": 64,
+    "size": 22,
+    "width": 24.0,
+    "max_width": 81
+  },
+  {
+    "text": "Keep the",
+    "x": 64,
+    "baseline": 253,
+    "size": 88,
+    "width": 372.0,
+    "max_width": 800
+  },
+  {
+    "text": "product true.",
+    "x": 64,
+    "baseline": 356,
+    "size": 88,
+    "width": 542.0,
+    "max_width": 800
+  },
+  {
+    "text": "Start with the images you have.",
+    "x": 64,
+    "baseline": 454,
+    "size": 34,
+    "width": 505.0,
+    "max_width": 810
+  },
+  {
+    "text": "Fewer sources? Use fewer modules.",
+    "x": 64,
+    "baseline": 523,
+    "size": 29,
+    "width": 472.0,
+    "max_width": 810
+  },
+  {
+    "text": "Do not invent unseen parts or views.",
+    "x": 64,
+    "baseline": 576,
+    "size": 29,
+    "width": 469.0,
+    "max_width": 810
+  },
+  {
+    "text": "5 review passes before the handoff.",
+    "x": 87,
+    "baseline": 715,
+    "size": 30,
+    "width": 508.0,
+    "max_width": 705
+  },
+  {
+    "text": "3 reviews after image generation.",
+    "x": 87,
+    "baseline": 768,
+    "size": 30,
+    "width": 474.0,
+    "max_width": 705
+  },
+  {
+    "text": "Hasselblad / source-photo placement proof / review rules do not guarantee model compliance",
+    "x": 64,
+    "baseline": 971,
+    "size": 21,
+    "width": 895.0,
+    "max_width": 1464
+  }
+]

@@ -1,0 +1,4 @@
+I made two Codex skills for industrial design boards: Chinese and English. They plan composition before image generation, with product evidence, thin gutters and aligned captions.
+
+Examples are source-photo placement proofs.
+https://github.com/19825223903tsc-cmd/industrial-board-layout

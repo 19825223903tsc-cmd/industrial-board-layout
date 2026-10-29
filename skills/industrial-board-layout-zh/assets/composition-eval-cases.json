@@ -1,0 +1,11 @@
+{
+  "status": "test specifications only; no real product trials executed by this file",
+  "cases": [
+    {"id":"slender-single-view","condition":"细长灯具，仅一张完整侧面图与两句用途说明","focus":"外观比例","questions":["如何利用长轴与负空间？","是否避免凭空增加背面、内部光学结构？","为什么选当前构图而不是等大三图？"]},
+    {"id":"hand-tool-human-relation","condition":"手持工具，两张产品图，没有真人握持照片或尺寸","focus":"握持与操作说明","questions":["哪些人体关系尚未证实？","是否先留出待补材料而不是编造精确握持尺寸？","如何用现有可见外形组织说明？"]},
+    {"id":"compact-object-details","condition":"紧凑桌面音箱，一张正面与一张局部图，无背面接口图","focus":"体块与表面","questions":["主次是否适合紧凑轮廓？","是否把未见接口当作事实画出？","局部是否绑定正确源图区域？"]},
+    {"id":"modular-series","condition":"三款真实模块组合图，文字量较多","focus":"组合差异与对应关系","questions":["是否需要统一尺度或矩阵关系？","是否错误强设一张主图导致差异不清？","图注是否能明确对应每种组合？"]},
+    {"id":"same-product-new-goal","condition":"与slender-single-view相同的素材，改为安装步骤重点","focus":"表达目标变化","questions":["现有图是否足以支持步骤？","是否因素材不足调整任务表达而不编造拆装状态？","构图选择的变化有无内容依据？"]},
+    {"id":"language-density","condition":"同一个真实项目，分别提供完整中文与英文文案","focus":"语言与文字体量","questions":["是否重新评估文字区而不是机械替字？","编号列、首末基线与图片归属是否维持？","信息层级是否一致而段落形状可以不同？"]}
+  ]
+}

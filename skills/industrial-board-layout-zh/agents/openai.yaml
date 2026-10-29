@@ -1,0 +1,4 @@
+interface:
+  display_name: "工业设计展板构图·中文版"
+  short_description: "按中文标点、混排和图注基线规划展板，五轮检查后输出生图构图引导包"
+  default_prompt: "请使用 $industrial-board-layout-zh，根据产品图规划中文展板，检查中文断行、细间距和跨区对齐，完成五轮自检后输出构图线框与生图提示词。"

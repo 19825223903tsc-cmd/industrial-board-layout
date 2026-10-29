@@ -1,0 +1,10 @@
+{
+  "skill": "industrial-board-layout-zh",
+  "version": "14",
+  "primary_language": "zh-CN",
+  "font_candidates": [
+    "/System/Library/Fonts/Hiragino Sans GB.ttc",
+    "C:/Windows/Fonts/msyh.ttc",
+    "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc"
+  ]
+}

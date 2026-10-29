@@ -1,0 +1,4 @@
+interface:
+  display_name: "工业设计展板构图·英文版"
+  short_description: "Plan English board hierarchy, word wrapping and aligned captions"
+  default_prompt: "Use $industrial-board-layout-en to plan an English product board, review word wrapping, thin gutters and caption baselines, then deliver a five-pass-reviewed composition guide."

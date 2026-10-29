@@ -1,0 +1,10 @@
+{
+  "skill": "industrial-board-layout-en",
+  "version": "14",
+  "primary_language": "en",
+  "font_candidates": [
+    "/System/Library/Fonts/Helvetica.ttc",
+    "C:/Windows/Fonts/arial.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+  ]
+}

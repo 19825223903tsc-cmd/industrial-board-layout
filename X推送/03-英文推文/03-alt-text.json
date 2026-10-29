@@ -1,0 +1,18 @@
+[
+  {
+    "image": "01-layout-before-generation.jpg",
+    "alt": "Better boards start before generation. An OP-1 field source-photo board proof illustrates aligned modules and captions. The skill plans the layout before prompting an image model."
+  },
+  {
+    "image": "02-wireframe-and-proof.jpg",
+    "alt": "An English composition wireframe and its corresponding OP-1 field source-photo placement proof appear side by side. They are planning artifacts, not generated boards."
+  },
+  {
+    "image": "03-chinese-and-english.jpg",
+    "alt": "Chinese and English OP-1 field placement proofs, showing separately reflowed headings and captions."
+  },
+  {
+    "image": "04-product-evidence-and-review.jpg",
+    "alt": "Keep the product true: use only supported views and modules. Five review passes before handoff and three reviews after generation. A Hasselblad source-photo proof appears alongside."
+  }
+]
